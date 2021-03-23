@@ -1,5 +1,5 @@
-Hi, I’m Alex!
-I'm new in coding, study at skillfactory.ru as data analyst and at brainskills.ru as python coder.
+Hi, I’m Alex!\n
+I'm new in coding, study at skillfactory.ru as data analyst and at brainskills.ru as python coder.\n
 ATM have fun with python/pandas
 
 <!---
