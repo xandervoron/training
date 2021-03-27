@@ -1,5 +1,5 @@
 - Hi, I’m Alex!
-- I'm new in coding, study at skillfactory.ru as data analyst and at brainskills.ru as python coder.
+- I'm new to coding, study at skillfactory.ru as a data analyst and at brainskills.ru as a python coder.
 - ATM have fun with python/pandas
 
 <!---
